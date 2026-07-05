@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="NewsForge logo">
+  <defs><linearGradient id="g" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#0891B2"/><stop offset="1" stop-color="#EA580C"/></linearGradient></defs>
+  <rect width="96" height="96" rx="22" fill="url(#g)"/>
+  <path d="M25 29h46v38H25z" fill="#fff"/>
+  <path d="M35 41h26M35 52h26M35 63h15" stroke="#0891B2" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="64" cy="32" r="8" fill="#FED7AA"/>
+</svg>

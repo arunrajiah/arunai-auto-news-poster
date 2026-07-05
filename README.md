@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.svg" alt="RSS AI Post Generator logo" width="96" height="96">
+</p>
+
 # ArunAI – Auto News Poster
 
 ![CI](https://github.com/arunrajiah/arunai-auto-news-poster/actions/workflows/ci.yml/badge.svg)
