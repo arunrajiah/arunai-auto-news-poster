@@ -24,10 +24,7 @@ wp-config.php
 arunai-auto-news-poster-1.0.8.zip
 newsforge-ai-auto-news-poster-1.0.8.zip
 
-# Local AI assistant / OS / env files
-.claude/
-CLAUDE.md
-CLAUDE.local.md
+# Local OS / env files
 .mcp.json
 .env
 .env.*
